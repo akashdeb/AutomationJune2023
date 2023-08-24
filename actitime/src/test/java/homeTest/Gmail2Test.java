@@ -13,5 +13,7 @@ public class Gmail2Test extends BaseClass  {
 	public void demo1Test() {
 		System.out.println("Compose");
 		System.out.println("Delete");
+		System.out.println("DEmo");
+
 	}
 }
